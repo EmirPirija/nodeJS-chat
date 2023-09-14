@@ -1,6 +1,6 @@
-POST https://chat-demo-x7xx.onrender.com
+POST http://localhost:3001/authenticate 
 Content-Type: application/json
 
 {
-"username": "emir"
+"username": ""
 }
